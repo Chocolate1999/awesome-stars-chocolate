@@ -4,9 +4,9 @@ on:
   push:
     branches:
       - main
-  workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -17,5 +17,6 @@ jobs:
         uses: simonecorsi/mawesome@v2
         with:
           api-token: ${{ secrets.GITHUB_TOKEN }}
+          github-name: ${{ github.repository_owner }}
           github-email: ${{ secrets.USER_EMAIL }}
           template-path: "template/README.ejs"
