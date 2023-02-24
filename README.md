@@ -1,6 +1,6 @@
 <div align="center">
 
-# awesome-stars-chocolate
+# awesome-stars-chocolate :chocolate\_bar:
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Auth](https://img.shields.io/badge/Auth-Chocolate1999-ff69b4?logo=github)](https://github.com/Chocolate1999)
