@@ -35,7 +35,7 @@
 
 *   [Chocolate1999/awesome-stars-chocolate](https://github.com/Chocolate1999/awesome-stars-chocolate) - awesome-stars-chocolate
 
-*   [Chocolate1999/Chocolate1999](https://github.com/Chocolate1999/Chocolate1999) - Chocolate readme profile with 5 stars and 16 forks 🌟
+*   [Chocolate1999/Chocolate1999](https://github.com/Chocolate1999/Chocolate1999) - Chocolate readme profile with 5 stars and 17 forks 🌟
 
 *   [chodocs/Chocolate-2022](https://github.com/chodocs/Chocolate-2022) - ⚡ 用此来记录回顾在 2022 年学习与成长，座右铭：学如逆水行舟，不进则退
 
@@ -201,8 +201,6 @@
 
 *   [Zfour/Butterfly-gitcalendar](https://github.com/Zfour/Butterfly-gitcalendar) - 基于hexo butterfly主题的github calendar中文插件
 
-*   [Chocolate1999/react-blog-jianshu](https://github.com/Chocolate1999/react-blog-jianshu) -
-
 *   [azl397985856/fe-interview](https://github.com/azl397985856/fe-interview) - 宇宙最强的前端面试指南 (https://lucifer.ren/fe-interview)
 
 *   [azl397985856/leetcode](https://github.com/azl397985856/leetcode) - 推荐刷题网站：https://www.lintcode.com/?utm\_source=tf-github-lucifer2022  LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)
@@ -214,6 +212,8 @@
 *   [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google) - 《Software Engineering at Google》的中文翻译版本
 
 *   [huzidaha/react-naive-book](https://github.com/huzidaha/react-naive-book) - 开源、免费、专业、简单的 React.js 在线教程
+
+*   [lulujianglab/blog](https://github.com/lulujianglab/blog) - :bento:lulujiang blog
 
 ## Python
 
