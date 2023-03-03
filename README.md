@@ -109,7 +109,7 @@
 
 *   [Chocolate1999/customer-carousel-case](https://github.com/Chocolate1999/customer-carousel-case) - a demo for customer carousel case  use swiper and slick
 
-*   [modern-js-dev/modern.js](https://github.com/modern-js-dev/modern.js) - A Progressive React Framework for modern web development.
+*   [web-infra-dev/modern.js](https://github.com/web-infra-dev/modern.js) - A Progressive React Framework for modern web development.
 
 *   [jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese) - TypeScript Deep Dive 中文版
 
