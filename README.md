@@ -15,8 +15,8 @@
 
 ## Table of Contents
 
-*   [Python](#python)
 *   [JavaScript](#javascript)
+*   [Python](#python)
 *   [Go](#go)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
@@ -31,17 +31,9 @@
 *   [Dockerfile](#dockerfile)
 *   [Thanks](#thanks)
 
-## Python
-
-*   [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
-
-*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-
-*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
-
-*   [FelixZFB/wuhan\_2019-nCoV](https://github.com/FelixZFB/wuhan_2019-nCoV) - 武汉2019新型冠状病毒疫情可视化(全国疫情地图及时间轴变化)
-
 ## JavaScript
+
+*   [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
 
 *   [dunwu/nginx-tutorial](https://github.com/dunwu/nginx-tutorial) - 这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。
 
@@ -95,7 +87,15 @@
 
 *   [Nealyang/React-Express-Blog-Demo](https://github.com/Nealyang/React-Express-Blog-Demo) - :fire: React full stack+Express+Mongo implementation blog website tutorial :new\_moon\_with\_face:
 
-*   [Zfour/Butterfly-gitcalendar](https://github.com/Zfour/Butterfly-gitcalendar) - 基于hexo butterfly主题的github calendar中文插件
+## Python
+
+*   [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
+
+*   [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+
+*   [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) - :kissing\_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）
+
+*   [FelixZFB/wuhan\_2019-nCoV](https://github.com/FelixZFB/wuhan_2019-nCoV) - 武汉2019新型冠状病毒疫情可视化(全国疫情地图及时间轴变化)
 
 ## Go
 
