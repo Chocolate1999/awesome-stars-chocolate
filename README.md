@@ -15,6 +15,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
@@ -26,10 +27,17 @@
 *   [PHP](#php)
 *   [Astro](#astro)
 *   [Stylus](#stylus)
-*   [Java](#java)
 *   [CSS](#css)
 *   [Dockerfile](#dockerfile)
 *   [Thanks](#thanks)
+
+## Java
+
+*   [apache/dubbo](https://github.com/apache/dubbo) - Apache Dubbo is a high-performance, java based, open source RPC framework.
+
+*   [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
+
+*   [Wechat-Group/WxJava](https://github.com/Wechat-Group/WxJava) - 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，公众号等的后端开发
 
 ## TypeScript
 
@@ -141,8 +149,6 @@
 
 *   [forthealllight/blog](https://github.com/forthealllight/blog) - 📖我的博客，记录学习的一些笔记，如有喜欢，欢迎star
 
-*   [justjavac/the-front-end-knowledge-you-may-not-know](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know) - :innocent: 你可能不知道的前端知识点
-
 ## JavaScript
 
 *   [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
@@ -197,8 +203,6 @@
 
 *   [sunyongjian/blog](https://github.com/sunyongjian/blog) - 个人博客😝😋😄
 
-*   [Nealyang/React-Express-Blog-Demo](https://github.com/Nealyang/React-Express-Blog-Demo) - :fire: React full stack+Express+Mongo implementation blog website tutorial :new\_moon\_with\_face:
-
 ## Python
 
 *   [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
@@ -244,10 +248,6 @@
 ## Stylus
 
 *   [liuyib/hexo-theme-stun](https://github.com/liuyib/hexo-theme-stun) - 🦄 An elegant theme for Hexo
-
-## Java
-
-*   [Wechat-Group/WxJava](https://github.com/Wechat-Group/WxJava) - 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，公众号等的后端开发
 
 ## CSS
 
