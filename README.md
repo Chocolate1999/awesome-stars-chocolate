@@ -33,6 +33,10 @@
 
 ## TypeScript
 
+*   [antfu/vscode-open-in-github-button](https://github.com/antfu/vscode-open-in-github-button) - Add a button to go to the GitHub on the status bar.
+
+*   [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
+
 *   [jpmonette/feed](https://github.com/jpmonette/feed) - A RSS, Atom and JSON Feed generator for Node.js, making content syndication simple and intuitive! 🚀
 
 *   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
@@ -146,10 +150,6 @@
 *   [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 
 *   [Akilarlxh/ScreenShot](https://github.com/Akilarlxh/ScreenShot) - 友链截图
-
-*   [InterviewMap/CS-Interview-Knowledge-Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) - Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.
-
-*   [forthealllight/blog](https://github.com/forthealllight/blog) - 📖我的博客，记录学习的一些笔记，如有喜欢，欢迎star
 
 ## JavaScript
 
