@@ -17,10 +17,10 @@
 
 *   [TypeScript](#typescript)
 *   [Java](#java)
-*   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [Go](#go)
+*   [miscellaneous](#miscellaneous)
 *   [Vue](#vue)
 *   [HTML](#html)
 *   [Rust](#rust)
@@ -117,6 +117,8 @@
 
 *   [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 
+*   [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+
 ## Java
 
 *   [apache/dubbo](https://github.com/apache/dubbo) - Apache Dubbo is a high-performance, java based, open source RPC framework.
@@ -124,32 +126,6 @@
 *   [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 
 *   [Wechat-Group/WxJava](https://github.com/Wechat-Group/WxJava) - 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，公众号等的后端开发
-
-## miscellaneous
-
-*   [Tencent/tdesign](https://github.com/Tencent/tdesign) - Enterprise Design System
-
-*   [Chocolate1999/awesome-stars-chocolate](https://github.com/Chocolate1999/awesome-stars-chocolate) - awesome-stars-chocolate
-
-*   [Chocolate1999/Chocolate1999](https://github.com/Chocolate1999/Chocolate1999) - Chocolate readme profile with 8 stars and 15 forks 🌟
-
-*   [chodocs/Chocolate-2022](https://github.com/chodocs/Chocolate-2022) - ⚡ 用此来记录回顾在 2022 年学习与成长，座右铭：学如逆水行舟，不进则退
-
-*   [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
-
-*   [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
-
-*   [HearLing/Blog](https://github.com/HearLing/Blog) - 小玲写博客的地方，目前在写设计模式以及面试相关专题
-
-*   [LionCubFrontEnd/Chocolate-2022](https://github.com/LionCubFrontEnd/Chocolate-2022) - ⚡用此来记录在 2022 年学习与成长，自我驱动 | 坚持 | 热爱 | 积极，座右铭：学如逆水行舟，不进则退❤️
-
-*   [brickspert/blog](https://github.com/brickspert/blog) - 个人技术博客，博文写在 Issues 里。
-
-*   [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) - :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
-
-*   [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-
-*   [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 
 ## JavaScript
 
@@ -220,6 +196,30 @@
 *   [go-olive/olive](https://github.com/go-olive/olive) - Live Stream Recorder                       直播录制/录播
 
 *   [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+
+## miscellaneous
+
+*   [Chocolate1999/awesome-stars-chocolate](https://github.com/Chocolate1999/awesome-stars-chocolate) - awesome-stars-chocolate
+
+*   [Chocolate1999/Chocolate1999](https://github.com/Chocolate1999/Chocolate1999) - Chocolate readme profile with 8 stars and 15 forks 🌟
+
+*   [chodocs/Chocolate-2022](https://github.com/chodocs/Chocolate-2022) - ⚡ 用此来记录回顾在 2022 年学习与成长，座右铭：学如逆水行舟，不进则退
+
+*   [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
+
+*   [dypsilon/frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - Manually curated collection of resources for frontend web developers.
+
+*   [HearLing/Blog](https://github.com/HearLing/Blog) - 小玲写博客的地方，目前在写设计模式以及面试相关专题
+
+*   [LionCubFrontEnd/Chocolate-2022](https://github.com/LionCubFrontEnd/Chocolate-2022) - ⚡用此来记录在 2022 年学习与成长，自我驱动 | 坚持 | 热爱 | 积极，座右铭：学如逆水行舟，不进则退❤️
+
+*   [brickspert/blog](https://github.com/brickspert/blog) - 个人技术博客，博文写在 Issues 里。
+
+*   [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) - :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
+
+*   [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+
+*   [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
 
 ## Vue
 
