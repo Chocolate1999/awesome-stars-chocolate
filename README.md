@@ -33,6 +33,8 @@
 
 ## TypeScript
 
+*   [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
+
 *   [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。
 
 *   [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
@@ -192,8 +194,6 @@
 *   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS
 
 *   [go-olive/olive](https://github.com/go-olive/olive) - Live Stream Recorder                       直播录制/录播
-
-*   [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
 
 ## miscellaneous
 
