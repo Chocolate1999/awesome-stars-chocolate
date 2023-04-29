@@ -199,7 +199,7 @@
 
 *   [Chocolate1999/awesome-stars-chocolate](https://github.com/Chocolate1999/awesome-stars-chocolate) - awesome-stars-chocolate
 
-*   [Chocolate1999/Chocolate1999](https://github.com/Chocolate1999/Chocolate1999) - Chocolate readme profile with 8 stars and 15 forks 🌟
+*   [Chocolate1999/Chocolate1999](https://github.com/Chocolate1999/Chocolate1999) - Chocolate readme profile with 8 stars and 16 forks 🌟
 
 *   [chodocs/Chocolate-2022](https://github.com/chodocs/Chocolate-2022) - ⚡ 用此来记录回顾在 2022 年学习与成长，座右铭：学如逆水行舟，不进则退
 
