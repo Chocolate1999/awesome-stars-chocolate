@@ -101,7 +101,7 @@
 
 *   [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk) - Fast, unstyled command menu React component.
 
-*   [Chocolate1999/nextjs-tailwind-blog](https://github.com/Chocolate1999/nextjs-tailwind-blog) - The most beautiful minimalist blog in modern built with Nextjs and tailwindcss.
+*   [chonext/blog](https://github.com/chonext/blog) - The most beautiful minimalist blog in modern built with Nextjs and tailwindcss.
 
 *   [theodorusclarence/theodorusclarence.com](https://github.com/theodorusclarence/theodorusclarence.com) - 💠 Personal website and blog made using Next.js, TypeScript, Tailwind CSS, MDX Bundler, and Prisma with PostgreSQL
 
