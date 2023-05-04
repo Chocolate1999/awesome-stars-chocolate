@@ -191,7 +191,7 @@
 
 ## Go
 
-*   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS
+*   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
 
 *   [go-olive/olive](https://github.com/go-olive/olive) - Live Stream Recorder                       直播录制/录播
 
@@ -199,7 +199,7 @@
 
 *   [Chocolate1999/awesome-stars-chocolate](https://github.com/Chocolate1999/awesome-stars-chocolate) - awesome-stars-chocolate
 
-*   [Chocolate1999/Chocolate1999](https://github.com/Chocolate1999/Chocolate1999) - Chocolate readme profile with 8 stars and 16 forks 🌟
+*   [Chocolate1999/Chocolate1999](https://github.com/Chocolate1999/Chocolate1999) - Chocolate readme profile with 7 stars and 16 forks 🌟
 
 *   [chodocs/Chocolate-2022](https://github.com/chodocs/Chocolate-2022) - ⚡ 用此来记录回顾在 2022 年学习与成长，座右铭：学如逆水行舟，不进则退
 
