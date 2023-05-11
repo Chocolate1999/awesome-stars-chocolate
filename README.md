@@ -193,7 +193,7 @@
 
 ## Go
 
-*   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
+*   [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
 
 *   [go-olive/olive](https://github.com/go-olive/olive) - Live Stream Recorder                       直播录制/录播
 
