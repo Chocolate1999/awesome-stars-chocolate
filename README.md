@@ -15,9 +15,9 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Java](#java)
-*   [JavaScript](#javascript)
 *   [Python](#python)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
@@ -25,12 +25,67 @@
 *   [HTML](#html)
 *   [Rust](#rust)
 *   [PHP](#php)
+*   [Astro](#astro)
 *   [Dockerfile](#dockerfile)
 *   [Stylus](#stylus)
 *   [CSS](#css)
 *   [Thanks](#thanks)
 
+## JavaScript
+
+*   [antfu/refined-github-notifications](https://github.com/antfu/refined-github-notifications) - UserScript that enhances the GitHub Notifications
+
+*   [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
+
+*   [dunwu/nginx-tutorial](https://github.com/dunwu/nginx-tutorial) - 这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。
+
+*   [ronami/minipack](https://github.com/ronami/minipack) - 📦 A simplified example of a modern module bundler written in JavaScript
+
+*   [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js, with workbox 🧰
+
+*   [fireairforce/monorepo-demos](https://github.com/fireairforce/monorepo-demos) - Pnpm + turborepo + changesets
+
+*   [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
+
+*   [yyx990803/vite-vs-next-turbo-hmr](https://github.com/yyx990803/vite-vs-next-turbo-hmr) - Benchmarking Vite vs. Next + turbopack HMR performance
+
+*   [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
+
+*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
+
+*   [pomber/didact](https://github.com/pomber/didact) - A DIY guide to build your own React
+
+*   [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
+
+*   [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
+
+*   [evrone/postcss-px-to-viewport](https://github.com/evrone/postcss-px-to-viewport) - A plugin for PostCSS that generates viewport units (vw, vh, vmin, vmax) from pixel units. The best choice to create a scalable interface on different displays by one design size.
+
+*   [greensock/GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
+
+*   [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
+
+*   [kentcdodds/mdx-bundler](https://github.com/kentcdodds/mdx-bundler) - 🦤 Give me MDX/TSX strings and I'll give you back a component you can render. Supports imports!
+
+*   [LionCubFrontEnd/docs](https://github.com/LionCubFrontEnd/docs) - ❤小狮子前端编程成长学习文档 with docusaurus
+
+*   [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+
+*   [ObjTube/front-end-roadmap](https://github.com/ObjTube/front-end-roadmap) - Tell you how to learn front end development ~
+
+*   [liyupi/code-nav](https://github.com/liyupi/code-nav) - 💎 专业的编程导航，帮你找到优质的编程学习资源！公众号【编程导航】 ☁️ 前后端均开源，励志成为最好的全栈云开发项目！
+
+*   [xcatliu/pagic](https://github.com/xcatliu/pagic) - A static site generator powered by Deno + React
+
+*   [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+
+*   [doramart/DoraCMS](https://github.com/doramart/DoraCMS) - DoraCMS是基于Nodejs+eggjs+mongodb编写的一套内容管理系统，结构简单，较目前一些开源的cms，doracms易于拓展，特别适合前端开发工程师做二次开发。
+
+*   [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
+
 ## TypeScript
+
+*   [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 
 *   [vercel-labs/react-tweet](https://github.com/vercel-labs/react-tweet) - Embedded and static tweets for React applications
 
@@ -114,17 +169,11 @@
 
 *   [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 
-*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-
 *   [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
 
 *   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 
 *   [getgridea/gridea](https://github.com/getgridea/gridea) - ✍️ A static blog writing client (一个静态博客写作客户端)
-
-*   [sindu12jun/imooc-jira](https://github.com/sindu12jun/imooc-jira) -
-
-*   [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 
 ## Java
 
@@ -133,56 +182,6 @@
 *   [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.
 
 *   [Wechat-Group/WxJava](https://github.com/Wechat-Group/WxJava) - 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，公众号等的后端开发
-
-## JavaScript
-
-*   [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
-
-*   [dunwu/nginx-tutorial](https://github.com/dunwu/nginx-tutorial) - 这是一个 Nginx 极简教程，目的在于帮助新手快速入门 Nginx。
-
-*   [ronami/minipack](https://github.com/ronami/minipack) - 📦 A simplified example of a modern module bundler written in JavaScript
-
-*   [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa) - Zero config PWA plugin for Next.js, with workbox 🧰
-
-*   [fireairforce/monorepo-demos](https://github.com/fireairforce/monorepo-demos) - Pnpm + turborepo + changesets
-
-*   [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
-
-*   [yyx990803/vite-vs-next-turbo-hmr](https://github.com/yyx990803/vite-vs-next-turbo-hmr) - Benchmarking Vite vs. Next + turbopack HMR performance
-
-*   [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
-
-*   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
-
-*   [pomber/didact](https://github.com/pomber/didact) - A DIY guide to build your own React
-
-*   [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
-
-*   [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
-
-*   [evrone/postcss-px-to-viewport](https://github.com/evrone/postcss-px-to-viewport) - A plugin for PostCSS that generates viewport units (vw, vh, vmin, vmax) from pixel units. The best choice to create a scalable interface on different displays by one design size.
-
-*   [greensock/GSAP](https://github.com/greensock/GSAP) - GreenSock's GSAP JavaScript animation library (including Draggable).
-
-*   [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
-
-*   [kentcdodds/mdx-bundler](https://github.com/kentcdodds/mdx-bundler) - 🦤 Give me MDX/TSX strings and I'll give you back a component you can render. Supports imports!
-
-*   [LionCubFrontEnd/docs](https://github.com/LionCubFrontEnd/docs) - ❤小狮子前端编程成长学习文档 with docusaurus
-
-*   [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-
-*   [ObjTube/front-end-roadmap](https://github.com/ObjTube/front-end-roadmap) - Tell you how to learn front end development ~
-
-*   [liyupi/code-nav](https://github.com/liyupi/code-nav) - 💎 专业的编程导航，帮你找到优质的编程学习资源！公众号【编程导航】 ☁️ 前后端均开源，励志成为最好的全栈云开发项目！
-
-*   [xcatliu/pagic](https://github.com/xcatliu/pagic) - A static site generator powered by Deno + React
-
-*   [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
-
-*   [doramart/DoraCMS](https://github.com/doramart/DoraCMS) - DoraCMS是基于Nodejs+eggjs+mongodb编写的一套内容管理系统，结构简单，较目前一些开源的cms，doracms易于拓展，特别适合前端开发工程师做二次开发。
-
-*   [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 
 ## Python
 
@@ -202,7 +201,7 @@
 
 *   [Chocolate1999/awesome-stars-chocolate](https://github.com/Chocolate1999/awesome-stars-chocolate) - awesome-stars-chocolate
 
-*   [Chocolate1999/Chocolate1999](https://github.com/Chocolate1999/Chocolate1999) - Chocolate readme profile with 7 stars and 16 forks 🌟
+*   [Chocolate1999/Chocolate1999](https://github.com/Chocolate1999/Chocolate1999) - Chocolate readme profile with 7 stars and 15 forks 🌟
 
 *   [chodocs/Chocolate-2022](https://github.com/chodocs/Chocolate-2022) - ⚡ 用此来记录回顾在 2022 年学习与成长，座右铭：学如逆水行舟，不进则退
 
@@ -239,6 +238,10 @@
 ## PHP
 
 *   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
+
+## Astro
+
+*   [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## Dockerfile
 
