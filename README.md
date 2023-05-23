@@ -31,6 +31,8 @@
 
 ## TypeScript
 
+*   [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React (up to 7️⃣0️⃣% faster!)
+
 *   [AlandSleman/t3-twitter-clone](https://github.com/AlandSleman/t3-twitter-clone) - Twitter clone built with T3 Stack + NextAuth + Supabase + Prisma
 
 *   [ccrsxx/twitter-clone](https://github.com/ccrsxx/twitter-clone) - Twitter clone built in Next.js + TypeScript + Tailwind CSS using Cloud Firestore and Storage
@@ -154,8 +156,6 @@
 *   [HearLing/Blog](https://github.com/HearLing/Blog) - 小玲写博客的地方，目前在写设计模式以及面试相关专题
 
 *   [LionCubFrontEnd/Chocolate-2022](https://github.com/LionCubFrontEnd/Chocolate-2022) - ⚡用此来记录在 2022 年学习与成长，自我驱动 | 坚持 | 热爱 | 积极，座右铭：学如逆水行舟，不进则退❤️
-
-*   [brickspert/blog](https://github.com/brickspert/blog) - 个人技术博客，博文写在 Issues 里。
 
 ## JavaScript
 
